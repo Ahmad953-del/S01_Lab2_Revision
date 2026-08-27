@@ -1,6 +1,6 @@
 ﻿namespace ZombieParty.Models
 {
-    public class Class
+    public class Zombie
     {
         public string Name;
 
